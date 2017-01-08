@@ -3,7 +3,8 @@ layout: post
 title: second post
 ---
 
-This is second post 
+This is third
+post 
 sfsdf
 
 
